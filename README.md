@@ -21,9 +21,10 @@
 ## 📊 GitHub Stats & Grind
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yasi005&show_icons=true&theme=tokyonight&count_private=true&hide_rank=true" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yasi005&theme=tokyonight" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasi005&layout=compact&theme=tokyonight&hide_langs=html,css" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yasi005&show_icons=true&theme=tokyonight&count_private=true&hide_rank=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasi005&layout=compact&theme=tokyonight&hide_langs=html,css" height="180" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yasi005&theme=tokyonight" height="180" />
 </p>
 
 ## 📬 Let's Team Up!
