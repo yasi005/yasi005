@@ -1,7 +1,7 @@
 
 
 
-### 🚀 ECE Student at NTUA | Full-stack Developer | Tech Enthusiast
+## 🚀 ECE Student at NTUA | Full-stack Developer | Tech Enthusiast
 
 ## 🛠 Tech Stack & Arsenal
 
