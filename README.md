@@ -3,21 +3,6 @@
 
 ### 🚀 ECE Student at NTUA | Full-stack Developer | Tech Enthusiast
 
-<!--
-**yasi005/yasi005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 ## 🛠 Tech Stack & Arsenal
 
 ### 🌐 Frontend & Frameworks
@@ -37,7 +22,6 @@ Here are some ideas to get you started:
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yasi005&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" height="180" />
-  <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yasi005&theme=tokyonight" alt="GitHub Streak" height="180" />
 </p>
 <p align="center">
@@ -45,8 +29,7 @@ Here are some ideas to get you started:
 </p>
 
 ## 📬 Let's Team Up!
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](LINK_LINKDIEN)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](LINK_INSTAGRAM) 
 [![Telegram](https://img.shields.io/badge/Telegram-%232CA5E0.svg?style=for-the-badge&logo=telegram&logoColor=white)](LINK_TELEGRAM) 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@gmail.com) 
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pouryaeiyasaman@gmail.com) 
 [![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](LINK_WEBSITE) 
