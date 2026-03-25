@@ -37,6 +37,7 @@ Here are some ideas to get you started:
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yasi005&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" height="180" />
+  <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yasi005&theme=tokyonight" alt="GitHub Streak" height="180" />
 </p>
 <p align="center">
