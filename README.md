@@ -3,8 +3,6 @@
 
 ### 🚀 ECE Student at NTUA | Full-stack Developer | Tech Enthusiast
 
----
-
 <!--
 **yasi005/yasi005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -41,7 +39,6 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api?username=yasi005&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" height="180" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yasi005&theme=tokyonight" alt="GitHub Streak" height="180" />
 </p>
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasi005&layout=compact&theme=tokyonight&hide_langs=html,css" alt="Top Languages" height="180" />
 </p>
