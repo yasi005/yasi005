@@ -21,7 +21,7 @@
 ## 📊 GitHub Stats & Grind
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yasi005&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" height="180" />
+  <img src="https://metrics.lecoq.io/YOUR_USERNAME?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&languages.sections=most-used&languages.details=percentage&theme=tokyonight" width="100%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yasi005&theme=tokyonight" alt="GitHub Streak" height="180" />
 </p>
 <p align="center">
