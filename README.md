@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome%20to%20my%20World&fontSize=70&animation=fadeIn" />
+  <img src="https://i.pinimg.com/736x/01/24/76/012476b7724f997636e0989f50f4a13e.jpg" width="100%" alt="Header Background" />
 </p>
 
 <div align="center">
