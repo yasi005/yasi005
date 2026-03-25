@@ -22,3 +22,6 @@ Here are some ideas to get you started:
 ## 📊 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yasi005&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yasi005&layout=compact&theme=tokyonight)
+
+## 📬 Let's Team Up!
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](لینک_لینکدین_تو)
