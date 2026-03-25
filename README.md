@@ -23,9 +23,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yasi005&show_icons=true&theme=tokyonight&count_private=true&hide_rank=true" height="180" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yasi005&theme=tokyonight" alt="GitHub Streak" height="180" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasi005&layout=compact&theme=tokyonight&hide_langs=html,css" alt="Top Languages" height="180" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasi005&layout=compact&theme=tokyonight&hide_langs=html,css" alt="Top Languages" height="180" />
 </p>
 
 ## 📬 Let's Team Up!
