@@ -1,27 +1,7 @@
-<p align="center">
-  <img src="https://i.pinimg.com/736x/01/24/76/012476b7724f997636e0989f50f4a13e.jpg" width="100%" alt="Header Background" />
-</p>
 
-<div align="center">
 
-# 👋 Hi there, I'm Yazmin
+
 ### 🚀 ECE Student at NTUA | Full-stack Developer | Tech Enthusiast
-
----
-
-<p align="left">
-  🔭 <b>I’m currently:</b> Sharpening my skills in React, Next.js, and C++
-  <br>
-  🎓 <b>Studies:</b> Junior Electrical and Computer Engineering student at **National Technical University of Athens**
-  <br>
-  🏛️ <b>Location:</b> Athens, Greece 🇬🇷
-  <br>
-  ⚡ <b>Fun Fact:</b> I love turning complex problems into elegant code and vibing to creattion while doing it!
-  <br>
-  <b>I'm also called as "yasi"</b>
-</p>
-
-</div>
 
 ---
 
