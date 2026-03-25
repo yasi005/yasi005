@@ -20,23 +20,11 @@
 
 ## 📊 GitHub Stats & Grind
 
-<div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=yasi005&show_icons=true&theme=tokyonight&count_private=true&hide_rank=true" height="180" />
-      </td>
-      <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=yasi005&theme=tokyonight" height="180" />
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasi005&layout=compact&theme=tokyonight&hide_langs=html,css" height="180" />
-      </td>
-    </tr>
-  </table>
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yasi005&show_icons=true&theme=tokyonight&count_private=true&hide_rank=true" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yasi005&theme=tokyonight" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasi005&layout=compact&theme=tokyonight&hide_langs=html,css" height="150" />
+</p>
 
 ## 📬 Let's Team Up!
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](LINK_INSTAGRAM) 
