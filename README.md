@@ -1,4 +1,29 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome%20to%20my%20World&fontSize=70&animation=fadeIn" />
+</p>
+
+<div align="center">
+
+# 👋 Hi there, I'm Yazmin
+### 🚀 ECE Student at NTUA | Full-stack Developer | Tech Enthusiast
+
+---
+
+<p align="left">
+  🔭 <b>I’m currently:</b> Sharpening my skills in React, Next.js, and C++
+  <br>
+  🎓 <b>Studies:</b> Junior Electrical and Computer Engineering student at **National Technical University of Athens**
+  <br>
+  🏛️ <b>Location:</b> Athens, Greece 🇬🇷
+  <br>
+  ⚡ <b>Fun Fact:</b> I love turning complex problems into elegant code and vibing to creattion while doing it!
+  <br>
+  <b>I'm also called as "yasi"</b>
+</p>
+
+</div>
+
+---
 
 <!--
 **yasi005/yasi005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
