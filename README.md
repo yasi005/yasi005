@@ -50,7 +50,3 @@
 </p>
 
 &nbsp;
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&bg_color=00000000&text_color=808080" />
-</p>
