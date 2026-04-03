@@ -23,6 +23,7 @@
 ### 📈 PERFORMANCE_METRICS
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yasi005&show_icons=true&theme=dark&bg_color=000000&title_color=ffffff&text_color=999999&icon_color=ffffff&hide_border=true" />
+  
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=yasi005&theme=dark&background=000000&fire=ffffff&ring=ffffff&currStreakNum=ffffff&sideLabels=ffffff&dates=999999&hide_border=true" />
 </p>
 
@@ -30,7 +31,8 @@
 
 ### 📊 LANGUAGE_DISTRIBUTION
 <p align="center">
-<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasi005&layout=compact&theme=transparent&title_color=ffffff&text_color=999999&hide_border=true&langs_count=8" /></p>
+  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasi005&layout=compact&theme=dark&bg_color=000000&title_color=ffffff&text_color=999999&hide_border=true&langs_count=8" />
+</p>
 
 &nbsp;
 
