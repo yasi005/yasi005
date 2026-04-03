@@ -1,4 +1,4 @@
-# 👨‍💻 [YOUR NAME]
+# ⚡︎ ⋇ IP005 ⋇ ⚡︎
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Electrical+and+Computer+Engineer;NTUA+Graduate+Student;Building+Scalable+Systems;Let's+Collaborate.">
