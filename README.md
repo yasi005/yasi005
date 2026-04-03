@@ -14,7 +14,7 @@
 ### 🛠 TECH_STACK
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,cpp,c,react,nextjs,nodejs,vite,fastapi,mysql,mongodb,sqlite,linux,docker,git,github,vscode&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=py,cpp,c,react,nextjs,nodejs,vite,fastapi,mysql,mongodb,sqlite,linux,docker,git,github,lualu&theme=dark" />
   </a>
 </p>
 
