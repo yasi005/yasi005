@@ -14,7 +14,6 @@
 ### 🛠 TECH_STACK
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,cpp,c,fastapi,postgres,sqlite,linux,git,docker,github,vscode,matlab&theme=dark" />
     <img src="https://skillicons.dev/icons?i=py,cpp,c,react,nextjs,nodejs,vite,fastapi,mysql,mongodb,sqlite,linux,docker,git,github,vscode&theme=dark" />
   </a>
 </p>
@@ -23,16 +22,15 @@
 
 ### 📈 PERFORMANCE_METRICS
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yasi005&show_icons=true&theme=transparent&title_color=ffffff&text_color=999999&icon_color=ffffff&hide_border=true" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=yasi005&theme=transparent&fire=ffffff&ring=ffffff&currStreakNum=ffffff&sideLabels=ffffff&dates=999999" />
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yasi005&show_icons=true&theme=transparent&title_color=ffffff&text_color=999999&icon_color=ffffff&hide_border=true" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=yasi005&theme=transparent&fire=ffffff&ring=ffffff&currStreakNum=ffffff&sideLabels=ffffff&dates=999999&hide_border=true" />
 </p>
 
 &nbsp;
 
 ### 📊 LANGUAGE_DISTRIBUTION
 <p align="center">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasi005&layout=compact&theme=transparent&title_color=ffffff&text_color=999999&hide_border=true&langs_count=7" />
-</p>
+<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasi005&layout=compact&theme=transparent&title_color=ffffff&text_color=999999&hide_border=true&langs_count=8" /></p>
 
 &nbsp;
 
