@@ -11,7 +11,6 @@ I'm an **Electrical and Computer Engineering** student at NTUA, specializing in 
 <br>
 
 ### ❖ Tech Stack
-### ❖ Tech Stack
 <p align="center">
   <img src="https://img.shields.io/badge/TypeScript-151515?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
   <img src="https://img.shields.io/badge/React-151515?style=for-the-badge&logo=react&logoColor=white" alt="React"/>
@@ -25,7 +24,6 @@ I'm an **Electrical and Computer Engineering** student at NTUA, specializing in 
   <br>
   <img src="https://img.shields.io/badge/C%2B%2B-151515?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
   <img src="https://img.shields.io/badge/Docker-151515?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Linux-151515?style=for-the-badge&logo=linux&logoColor=white" alt="Linux"/>
   <img src="https://img.shields.io/badge/Git-151515?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
 </p>
 
