@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# 𓍯 Yasaman Pouryaei
+# 𓍯 Yazmin 𓍯 #
 *Engineering elegance through code.*
 
 ---
