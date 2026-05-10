@@ -23,8 +23,8 @@ I'm an **Electrical and Computer Engineering** student at NTUA, specializing in 
 
 ### ❖ GitHub Telemetry
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=transparent&title_color=000000&text_color=333333&icon_color=000000&border_color=000000&bg_color=ffffff&hide_border=false&border_radius=0&custom_title=Overall%20Stats" alt="GitHub Stats" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=transparent&title_color=000000&text_color=333333&border_color=000000&bg_color=ffffff&hide_border=false&border_radius=0&custom_title=Languages" alt="Top Languages" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api?username=yasi005&show_icons=true&theme=transparent&title_color=000000&text_color=333333&icon_color=000000&border_color=000000&bg_color=ffffff&hide_border=false&border_radius=0&custom_title=Overall%20Stats" alt="GitHub Stats" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasi005&layout=compact&theme=transparent&title_color=000000&text_color=333333&border_color=000000&bg_color=ffffff&hide_border=false&border_radius=0&custom_title=Languages" alt="Top Languages" width="48%">
 </p>
 
 <br>
