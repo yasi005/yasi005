@@ -31,11 +31,11 @@ I'm an **Electrical and Computer Engineering** student at NTUA, specializing in 
 
 ### ❖ Featured Projects
 
-> **[Project Alpha](https://github.com/YOUR_GITHUB_USERNAME/repo1)** <br>
+> **[Project Alpha](https://github.com/yasi005/repo1)** <br>
 > A brief, impactful description of what this masterpiece does. <br>
 > `Python` · `Machine Learning`
 
-> **[Project Beta](https://github.com/YOUR_GITHUB_USERNAME/repo2)** <br>
+> **[Project Beta](https://github.com/yasi005/repo2)** <br>
 > Another clean solution to a complex engineering problem. <br>
 > `C++` · `System Design`
 
