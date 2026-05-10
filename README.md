@@ -11,22 +11,31 @@ I'm an **Electrical and Computer Engineering** student at NTUA, specializing in 
 <br>
 
 ### ❖ Tech Stack
+### ❖ Tech Stack
 <p align="center">
+  <img src="https://img.shields.io/badge/TypeScript-151515?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/React-151515?style=for-the-badge&logo=react&logoColor=white" alt="React"/>
+  <img src="https://img.shields.io/badge/Next.js-151515?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-151515?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind"/>
+  <br>
   <img src="https://img.shields.io/badge/Python-151515?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/FastAPI-151515?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
+  <img src="https://img.shields.io/badge/Node.js-151515?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-151515?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <br>
   <img src="https://img.shields.io/badge/C%2B%2B-151515?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/Docker-151515?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
   <img src="https://img.shields.io/badge/Linux-151515?style=for-the-badge&logo=linux&logoColor=white" alt="Linux"/>
   <img src="https://img.shields.io/badge/Git-151515?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/Docker-151515?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
 </p>
 
 <br>
 
 ### ❖ GitHub Telemetry
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IP005&show_icons=true&theme=transparent&title_color=000000&text_color=333333&icon_color=000000&border_color=000000&bg_color=ffffff&hide_border=false&border_radius=0&custom_title=Overall%20Stats" alt="GitHub Stats" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IP005&layout=compact&theme=transparent&title_color=000000&text_color=333333&border_color=000000&bg_color=ffffff&hide_border=false&border_radius=0&custom_title=Languages" alt="Top Languages" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api?username=yasi005&show_icons=true&theme=transparent&title_color=000000&text_color=333333&icon_color=000000&border_color=000000&bg_color=ffffff&hide_border=false&border_radius=0&custom_title=Overall%20Stats" alt="GitHub Stats" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasi005&layout=compact&theme=transparent&title_color=000000&text_color=333333&border_color=000000&bg_color=ffffff&hide_border=false&border_radius=0&custom_title=Languages" alt="Top Languages" width="48%">
 </p>
-
 <br>
 
 ### ❖ Featured Projects
