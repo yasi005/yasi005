@@ -36,33 +36,15 @@ I'm an **Electrical and Computer Engineering** student at NTUA, specializing in 
 </p>
 <br>
 
-### ❖ Featured Projects
-
-> **[Project Alpha](https://github.com/yasi005/repo1)** <br>
-> A brief, impactful description of what this masterpiece does. <br>
-> `Python` · `Machine Learning`
-
-> **[Project Beta](https://github.com/yasi005/repo2)** <br>
-> Another clean solution to a complex engineering problem. <br>
-> `C++` · `System Design`
-
-<br>
-
 ### ❖ Connect
 <p align="center">
   <a href="mailto:pouryaeiyasaman@gmail.com"><img src="https://img.shields.io/badge/Email-151515?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-151515?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME"><img src="https://img.shields.io/badge/GitHub-151515?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://t.me/IIPP005"><img src="https://img.shields.io/badge/Telegram-151515?style=for-the-badge&logo=telegram&logoColor=white"        alt="Telegram"/></a>
+  <a href="https://github.com/yasi005"><img src="https://img.shields.io/badge/GitHub-151515?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
 
 </div>
 
-- ✦ **[Project Name 1](https://github.com/YOUR_GITHUB_USERNAME/repo1)**: A minimal description of what this project does and the tech stack used.
-- ✦ **[Project Name 2](https://github.com/YOUR_GITHUB_USERNAME/repo2)**: A minimal description of what this project does and the tech stack used.
 - ✦ Currently exploring deeper concepts in Software Engineering and System Design.
 
 <br>
-
-<div align="center">
-  <a href="mailto:pouryaeiyasaman@gmail.com"><b>[ Let's Connect ]</b></a>
-</div>
