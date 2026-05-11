@@ -32,7 +32,7 @@ I'm an **Electrical and Computer Engineering** student at NTUA, specializing in 
 ### ❖ GitHub Pulse Telemetry
 <p align="center">
  <p align="center">
-  <img src="https://metrics.lecoq.io/yasi005?template=classic&base=activity,repositories,languages&config_timezone=Europe/Athens&hide_border=true&color.bg=transparent&color.text=555555&color.title=111111&color.icon=111111&margin=0" alt="GitHub Metrics" width="85%">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yasi005&theme=transparent" alt="Profile Summary" width="85%">
 </p>
 </p>
 
