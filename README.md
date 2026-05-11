@@ -20,8 +20,6 @@ I'm an **Electrical and Computer Engineering** student at NTUA, specializing in 
   <img src="https://img.shields.io/badge/Tailwind_CSS-151515?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind"/>
 </p>
 
-<br>
-
 #### <u>✦ Server & Security</u>
 <p align="center">
   <img src="https://img.shields.io/badge/Node.js-151515?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
@@ -30,8 +28,6 @@ I'm an **Electrical and Computer Engineering** student at NTUA, specializing in 
   <img src="https://img.shields.io/badge/Web%20Auth-151515?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="Web Auth"/>
 </p>
 
-<br>
-
 #### <u>✦ Data & Infrastructure</u>
 <p align="center">
   <img src="https://img.shields.io/badge/PostgreSQL-151515?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
@@ -39,8 +35,6 @@ I'm an **Electrical and Computer Engineering** student at NTUA, specializing in 
   <img src="https://img.shields.io/badge/Docker-151515?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
   <img src="https://img.shields.io/badge/Linux-151515?style=for-the-badge&logo=linux&logoColor=white" alt="Linux"/>
 </p>
-
-<br>
 
 #### <u>✦ Core Fundamentals</u>
 <p align="center">
