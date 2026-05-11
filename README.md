@@ -14,9 +14,9 @@ I'm an **Electrical and Computer Engineering** student at NTUA, specializing in 
 
 <br>
 
+#### <u>✦ Client-Side Engineering</u>
 <p align="left">
-  <img src="https://img.shields.io/badge/✦-Client%20Side%20Engineering-C5A059?style=for-the-badge&labelColor=151515" alt="Client-Side"/>
-  <br>
+  <img src="https://img.shields.io/badge/JavaScript-151515?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/TypeScript-151515?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
   <img src="https://img.shields.io/badge/React-151515?style=for-the-badge&logo=react&logoColor=white" alt="React"/>
   <img src="https://img.shields.io/badge/Next.js-151515?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
@@ -25,29 +25,28 @@ I'm an **Electrical and Computer Engineering** student at NTUA, specializing in 
 
 <br>
 
+#### <u>✦ Server & Security</u>
 <p align="left">
-  <img src="https://img.shields.io/badge/✦-Server%20%26%20APIs-C5A059?style=for-the-badge&labelColor=151515" alt="Server & APIs"/>
-  <br>
+  <img src="https://img.shields.io/badge/Node.js-151515?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
   <img src="https://img.shields.io/badge/Python-151515?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/FastAPI-151515?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
-  <img src="https://img.shields.io/badge/Node.js-151515?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Web%20Auth-151515?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="Web Auth"/>
 </p>
 
 <br>
 
+#### <u>✦ Data & Infrastructure</u>
 <p align="left">
-  <img src="https://img.shields.io/badge/✦-Data%20%26%20Infrastructure-C5A059?style=for-the-badge&labelColor=151515" alt="Data & Infrastructure"/>
-  <br>
   <img src="https://img.shields.io/badge/PostgreSQL-151515?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/Prisma-151515?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma"/>
   <img src="https://img.shields.io/badge/Docker-151515?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
   <img src="https://img.shields.io/badge/Linux-151515?style=for-the-badge&logo=linux&logoColor=white" alt="Linux"/>
 </p>
 
 <br>
 
+#### <u>✦ Core Fundamentals</u>
 <p align="left">
-  <img src="https://img.shields.io/badge/✦-Core%20Fundamentals-C5A059?style=for-the-badge&labelColor=151515" alt="Core Fundamentals"/>
-  <br>
   <img src="https://img.shields.io/badge/C%2B%2B-151515?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
   <img src="https://img.shields.io/badge/Git-151515?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
 </p>
