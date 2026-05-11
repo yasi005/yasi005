@@ -31,8 +31,6 @@ I'm an **Electrical and Computer Engineering** student at NTUA, specializing in 
 
 ### ❖ GitHub Pulse Telemetry
 <p align="center">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasi005&layout=compact&theme=transparent&title_color=111111&text_color=555555&hide_border=true&cache_seconds=86400&custom_title=Top%20Arsenal" alt="Top Languages" width="60%">
-  
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yasi005&theme=white&hide_border=true&background=ffffff00&ring=555555&fire=555555&currStreakNum=555555&sideNums=555555&currStreakLabel=555555&sideLabels=555555&dates=555555" alt="GitHub Streak" width="48%">
 </p>
 
