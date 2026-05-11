@@ -29,13 +29,10 @@ I'm an **Electrical and Computer Engineering** student at NTUA, specializing in 
 
 <br>
 
-### ❖ GitHub Pulse
+### ❖ GitHub Pulse Telemetry
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yasi005&bg_color=transparent&color=151515&line=151515&point=151515&area=true&hide_border=true&custom_title=Activity%20Graph" alt="Activity Graph" width="100%">
-</p>
-### ❖ Consistency Telemetry
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yasi005&theme=transparent&hide_border=true&background=ffffff00&ring=151515&fire=151515&currStreakNum=151515&sideNums=151515&currStreakLabel=151515&sideLabels=151515&dates=151515" alt="GitHub Streak" width="80%">
+  <img src="https://github-readme-stats.vercel.app/api?username=yasi005&show_icons=true&theme=transparent&title_color=111111&text_color=555555&icon_color=111111&hide_border=true&cache_seconds=86400&custom_title=Overall%20Stats" alt="GitHub Stats" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasi005&layout=compact&theme=transparent&title_color=111111&text_color=555555&hide_border=true&cache_seconds=86400&custom_title=Languages" alt="Top Languages" width="48%">
 </p>
 
 ### ❖ Connect
