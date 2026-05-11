@@ -12,10 +12,7 @@ I'm an **Electrical and Computer Engineering** student at NTUA, specializing in 
 
 ### ❖ Technical Arsenal
 
-<br>
-
-#### <u>✦ Client-Side Engineering</u>
-<p align="left">
+#### <u><font color="#38bdf8">✦</font> Client-Side Engineering</u><p align="center">
   <img src="https://img.shields.io/badge/JavaScript-151515?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/TypeScript-151515?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
   <img src="https://img.shields.io/badge/React-151515?style=for-the-badge&logo=react&logoColor=white" alt="React"/>
@@ -26,7 +23,7 @@ I'm an **Electrical and Computer Engineering** student at NTUA, specializing in 
 <br>
 
 #### <u>✦ Server & Security</u>
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/Node.js-151515?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
   <img src="https://img.shields.io/badge/Python-151515?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/FastAPI-151515?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
@@ -36,7 +33,7 @@ I'm an **Electrical and Computer Engineering** student at NTUA, specializing in 
 <br>
 
 #### <u>✦ Data & Infrastructure</u>
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/PostgreSQL-151515?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
   <img src="https://img.shields.io/badge/Prisma-151515?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma"/>
   <img src="https://img.shields.io/badge/Docker-151515?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
@@ -46,7 +43,7 @@ I'm an **Electrical and Computer Engineering** student at NTUA, specializing in 
 <br>
 
 #### <u>✦ Core Fundamentals</u>
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/C%2B%2B-151515?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
   <img src="https://img.shields.io/badge/Git-151515?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
 </p>
