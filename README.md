@@ -44,9 +44,9 @@ I'm an **Electrical and Computer Engineering** student at NTUA, specializing in 
 
 <br>
 
-### ❖ GitHub Pulse Telemetry
 <p align="center">
- <img src="https://streak-stats.demolab.com/?user=yasi005&theme=white&hide_border=true&background=ffffff00&ring=555555&fire=555555&currStreakNum=555555&sideNums=555555&currStreakLabel=555555&sideLabels=555555&dates=555555&timezone=Europe/Athens&v=21" alt="GitHub Streak" width="48%">
+  <img src="https://streak-stats.demolab.com/?user=yasi005&theme=white&hide_border=true&background=ffffff00&ring=555555&fire=555555&currStreakNum=555555&sideNums=555555&currStreakLabel=555555&sideLabels=555555&dates=555555&timezone=Europe/Athens" alt="GitHub Streak" width="48%">
+</p>
 
 ### ❖ Connect
 <p align="center">
