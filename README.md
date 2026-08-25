@@ -1,4 +1,3 @@
-
 <div align="center">
 
 # 𓍯 Yazmin 𓍯 #
@@ -8,11 +7,30 @@
 
 I'm an **Electrical and Computer Engineering** student at NTUA, specializing in building minimal, efficient, and scalable systems. My focus lies at the intersection of clean architecture and sophisticated problem-solving.
 
+✦ *Currently exploring deeper concepts in Software Engineering and System Design.*
+
+<br>
+
+### ❖ Advanced Credentials
+
+<a href="https://learn.mit.edu/courses/course-v1:UAI_SOURCE+UAI.INTRO" target="_blank">
+  <img src="https://img.shields.io/badge/MIT_Learn-Universal_AI-151515?style=for-the-badge&logo=academia&logoColor=E8DCC4" alt="MIT Certification" />
+</a>
+
+**Massachusetts Institute of Technology (MIT Learn)**
+*Introduction to Universal AI*
+
+**Issued:** April 6, 2026 | **Credential ID:** `df50f8cc-2ee5-494f-bb82-9a672a27fc8b`
+
+**Core Competencies:**
+AI Agent Architecture · Symbolic AI vs. Machine Learning · Model Training Splits · Generative AI Systems
+
 <br>
 
 ### ❖ Technical Arsenal
 
-#### <u><font color="#38bdf8">✦</font> Client-Side Engineering</u><p align="center">
+#### <u><font color="#38bdf8">✦</font> Client-Side Engineering</u>
+<p align="center">
   <img src="https://img.shields.io/badge/JavaScript-151515?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/TypeScript-151515?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
   <img src="https://img.shields.io/badge/React-151515?style=for-the-badge&logo=react&logoColor=white" alt="React"/>
@@ -57,21 +75,3 @@ I'm an **Electrical and Computer Engineering** student at NTUA, specializing in 
 </p>
 
 </div>
-
-### 🎓 Advanced Credentials
-
-<br>
-
-<div align="left">
-  <img src="https://img.shields.io/badge/MIT_Learn-Universal_AI-0A0A0A?style=for-the-badge&color=0A0A0A" alt="MIT Certification" />
-</div>
-
-**Massachusetts Institute of Technology (MIT Learn)**
-*Introduction to Universal AI*
-* **Issued:** April 6, 2026
-* **Verifiable Credential ID:** `df50f8cc-2ee5-494f-bb82-9a672a27fc8b`
-* **Core Competencies:** AI Agent Architecture, Symbolic AI vs. Machine Learning, Model Training & Validation splits, and Generative AI Systems.
-
-- ✦ Currently exploring deeper concepts in Software Engineering and System Design.
-
-<br>
