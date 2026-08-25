@@ -58,6 +58,20 @@ I'm an **Electrical and Computer Engineering** student at NTUA, specializing in 
 
 </div>
 
+### 🎓 Advanced Credentials
+
+<br>
+
+<div align="left">
+  <img src="https://img.shields.io/badge/MIT_Learn-Universal_AI-0A0A0A?style=for-the-badge&color=0A0A0A" alt="MIT Certification" />
+</div>
+
+**Massachusetts Institute of Technology (MIT Learn)**
+*Introduction to Universal AI*
+* **Issued:** April 6, 2026
+* **Verifiable Credential ID:** `df50f8cc-2ee5-494f-bb82-9a672a27fc8b`
+* **Core Competencies:** AI Agent Architecture, Symbolic AI vs. Machine Learning, Model Training & Validation splits, and Generative AI Systems.
+
 - ✦ Currently exploring deeper concepts in Software Engineering and System Design.
 
 <br>
