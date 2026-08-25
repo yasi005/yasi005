@@ -5,13 +5,18 @@
 
 ---
 
-I'm an **Electrical and Computer Engineering** student at NTUA, specializing in building minimal, efficient, and scalable systems. My focus lies at the intersection of clean architecture and sophisticated problem-solving.
+Architecting minimal, efficient, and scalable systems. Focused on the intersection of clean infrastructure, AI integration, and sophisticated problem-solving.
 
 ✦ *Currently exploring deeper concepts in Software Engineering and System Design.*
 
 <br>
 
-### ❖ Advanced Credentials
+### ❖ Education & Credentials
+
+**National Technical University of Athens (NTUA)**
+*BSc, Electrical and Computer Engineering (ECE)*
+
+<br>
 
 <a href="https://learn.mit.edu/courses/course-v1:UAI_SOURCE+UAI.INTRO" target="_blank">
   <img src="https://img.shields.io/badge/MIT_Learn-Universal_AI-151515?style=for-the-badge&logo=academia&logoColor=E8DCC4" alt="MIT Certification" />
