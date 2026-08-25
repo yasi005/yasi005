@@ -11,27 +11,6 @@ Architecting minimal, efficient, and scalable systems. Focused on the intersecti
 
 <br>
 
-### ❖ Education & Credentials
-
-**National Technical University of Athens (NTUA)**
-*BSc, Electrical and Computer Engineering (ECE)*
-
-<br>
-
-<a href="https://learn.mit.edu/courses/course-v1:UAI_SOURCE+UAI.INTRO" target="_blank">
-  <img src="https://img.shields.io/badge/MIT_Learn-Universal_AI-151515?style=for-the-badge&logo=academia&logoColor=E8DCC4" alt="MIT Certification" />
-</a>
-
-**Massachusetts Institute of Technology (MIT Learn)**
-*Introduction to Universal AI*
-
-**Issued:** April 6, 2026 | **Credential ID:** `df50f8cc-2ee5-494f-bb82-9a672a27fc8b`
-
-**Core Competencies:**
-AI Agent Architecture · Symbolic AI vs. Machine Learning · Model Training Splits · Generative AI Systems
-
-<br>
-
 ### ❖ Technical Arsenal
 
 #### <u><font color="#38bdf8">✦</font> Client-Side Engineering</u>
@@ -64,6 +43,27 @@ AI Agent Architecture · Symbolic AI vs. Machine Learning · Model Training Spli
   <img src="https://img.shields.io/badge/C%2B%2B-151515?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
   <img src="https://img.shields.io/badge/Git-151515?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
 </p>
+
+<br>
+
+### ❖ Education & Credentials
+
+**National Technical University of Athens (NTUA)**
+*BSc, Electrical and Computer Engineering (ECE)*
+
+<br>
+
+<a href="https://learn.mit.edu/courses/course-v1:UAI_SOURCE+UAI.INTRO" target="_blank">
+  <img src="https://img.shields.io/badge/MIT_Learn-Universal_AI-151515?style=for-the-badge&logo=academia&logoColor=E8DCC4" alt="MIT Certification" />
+</a>
+
+**Massachusetts Institute of Technology (MIT Learn)**
+*Introduction to Universal AI*
+
+**Issued:** April 6, 2026 | **Credential ID:** `df50f8cc-2ee5-494f-bb82-9a672a27fc8b`
+
+**Core Competencies:**
+AI Agent Architecture · Symbolic AI vs. Machine Learning · Model Training Splits · Generative AI Systems
 
 <br>
 
