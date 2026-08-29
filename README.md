@@ -80,7 +80,7 @@ AI Agent Architecture · Symbolic AI vs. Machine Learning · Model Training Spli
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yasi005&label=Profile%20Views&color=0e75b6&style=flat-square" alt="yasi005 profile views" />
+  <img src="https://komarev.com/ghpvc/?username=yasi005&label=PROFILE%20VIEWS&color=151515&labelColor=000000&style=for-the-badge" alt="Profile Views" />
 </p>
 
 </div>
