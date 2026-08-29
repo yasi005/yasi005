@@ -79,8 +79,4 @@ AI Agent Architecture · Symbolic AI vs. Machine Learning · Model Training Spli
   <a href="https://github.com/yasi005"><img src="https://img.shields.io/badge/GitHub-151515?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
 
-<p align="center">
-  <img src="https://ip005.goatcounter.com/count.svg?p=/github-profile" alt="System Visits" />
-</p>
-
 </div>
