@@ -80,7 +80,7 @@ AI Agent Architecture · Symbolic AI vs. Machine Learning · Model Training Spli
 </p>
 
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=yasi005.yasi005&title=VISITS&style=for-the-badge&color=151515" alt="Unique Profile Views" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=yasi005.yasi005&title=ProfileViews&style=for-the-badge&color=151515&left_color=000000" alt="System Visits" />
 </p>
 
 </div>
