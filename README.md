@@ -69,9 +69,8 @@ AI Agent Architecture · Symbolic AI vs. Machine Learning · Model Training Spli
 
 ### ❖ GitHub Pulse Telemetry
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=yasi005&theme=white&hide_border=true&background=ffffff00&ring=555555&fire=555555&currStreakNum=555555&sideNums=555555&currStreakLabel=555555&sideLabels=555555&dates=555555" alt="GitHub Streak" width="48%">
+  <img src="https://streak-stats.demolab.com/?user=yasi005&theme=white&hide_border=true&background=ffffff00&ring=555555&fire=555555&currStreakNum=555555&sideNums=555555&currStreakLabel=555555&sideLabels=555555&dates=555555&timezone=Europe/Athens&v=1" alt="GitHub Streak" width="48%">
 </p>
-
 ### ❖ Connect
 <p align="center">
   <a href="mailto:pouryaeiyasaman@gmail.com"><img src="https://img.shields.io/badge/Email-151515?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
